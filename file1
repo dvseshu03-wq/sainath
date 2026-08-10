@@ -4,3 +4,7 @@ devops
 jenkins
 pipelines
 ansible
+docker
+maven
+terraform
+kubernets
